@@ -1,5 +1,5 @@
-##pyspark_1
-
+Pyspark
+### Practice 1 
 0.	Install anaconda https://www.anaconda.com/download
 1.	Clone this repo
 2.	Use guide to install pyspark https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/ 
